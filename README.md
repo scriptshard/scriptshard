@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scriptshard
 - 👀 I’m interested in back-end / iOS development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on NaN
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - scriptshard@gmail.com
 
 <!---
